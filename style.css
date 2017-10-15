@@ -8,19 +8,19 @@ Body{
     background-size: cover
 	  }
 .header{
-/* 	background-color: url('img/me1.jpg'); */
-background-color:Black;
-/* 	background-repeat: no-repeat; */
-/* 	background-size:100% 100%;  */
-
-
+	background-color:Black;
 }
 
 article{
 	 height:700px;
 
 }
-
+.well{
+	background-color: #408080; 
+	text-align: center;
+	font-size: 2.5em;
+	font-family: sans-serif;
+}
 
 .skillsty{
 	 background-image: url('img/skbg.jpg');
@@ -61,8 +61,6 @@ dd{
 }
 .list{
 	margin: 10px;
-
-
 }
 
 
