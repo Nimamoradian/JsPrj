@@ -1,0 +1,7 @@
+Programming: Java, C#, C++, SQL, Visual Basic, PHP
+Web Technology: JavaScript, HTML(5), XSLT, CSS, AspectJ
+Web Services: JSON, RESTful API, XML
+Tools and Frameworks: Eclipse, Visual Studio, Node-Red, IBM Bluemix, Raspberry PI, MS Office Suite
+Research: Internet of Things, Body Area Network, Health Informatics, Big Data, 3D-Modeling, Animation,
+Agent-Based Modeling, Computer Simulation, Social Networks
+OS: Windows, Linux

@@ -1,0 +1,104 @@
+Body{
+
+	background-color: #000000;
+	color:WHITE;
+	background-repeat: no-repeat;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+	  }
+.header{
+/* 	background-color: url('img/me1.jpg'); */
+background-color:Black;
+/* 	background-repeat: no-repeat; */
+/* 	background-size:100% 100%;  */
+
+
+}
+
+article{
+	 height:700px;
+
+}
+
+
+.skillsty{
+	 background-image: url('img/skbg.jpg');
+	 padding: 20px;
+     background-size: 100% 100%;
+}
+.prjsty{
+   background-image:url("img/prj1.jpg");
+	background-size: 100% 100%;
+	color:BLACK;
+
+	font-weight: bold;
+	 padding: 20px;
+
+}
+
+.educationsty{
+	 background-image:url("img/edubg.jpg");
+	 padding: 20px;
+	 background-size: 100% 100%;
+
+}
+
+.contactSty{
+	 padding: 20px;
+	 background-image:url("img/ctcbg.jpg");
+	 background-size: 100% 100%;
+
+
+}
+dt{
+	margin-left:20px;
+}
+dd{
+	margin-left: 60px;
+	margin-bottom:10px;
+	margin-top: 10px;
+}
+.list{
+	margin: 10px;
+
+
+}
+
+
+.i{
+		margin-top : 10px;
+
+}
+article li{
+	margin-top:10px;
+}
+article dt{
+	margin-top:10px;
+}
+
+img{
+	width: 80% ;
+}
+
+footer{
+text-align: center;
+
+}
+
+h1{
+	margin-down : 10px;
+	padding-top: 20px;
+}
+a{
+	color :#8000ff;
+}
+textarea {
+   resize: none;
+}
+
+
+.botsize{
+	margin:30px;
+	width: 40%;
+}
